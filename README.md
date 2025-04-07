@@ -6,7 +6,7 @@ This project is a simple Flask application that manages a database of superheroe
 ## Installation Instructions
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <git@github.com:miriam590/SUPER_HEROES.git>
    cd <repository-directory>
    ```
 
